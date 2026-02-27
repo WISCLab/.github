@@ -12,7 +12,7 @@ If you're a new lab member or contributor:
 
 1. **Read the repo-level README** for any project you plan to work on.
 2. **Install [shred-guard](https://github.com/WISCLab/shred-guard)** as a pre-commit hook for new repositories that touch research data. PHI leaks are a serious compliance risk, this is not optional (even in private repositories)
-3. **Request access** to private repositories through your lab supervisor.
+3. **Request access** to private repositories through @tjmahr.
 4. Follow existing code style and conventions within each repository. When in doubt, open an issue or ask.
 
 ## Contributing
