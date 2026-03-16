@@ -1,10 +1,17 @@
 # WISCLab @ UW–Madison
 **Wisconsin Intelligibility, Speech, and Communication Laboratory**
+
 🔗 [kidspeech.wisc.edu](https://kidspeech.wisc.edu/)
 
 WISCLab researches children's speech intelligibility and communication development. This organization hosts the open-source tools and data utilities that support that work.
 
-## For Visitors & External Contributors
+## For Curious Visitors
+
+This is a GitHub organization; a place where software teams store and share code. If you're not a developer but are curious about the tools and software our lab builds, you can browse our repositories using the **Repositories** tab above. Each repository has a README file that explains what it does and how it's used.
+
+For a broader overview of our research, visit [kidspeech.wisc.edu](https://kidspeech.wisc.edu/).
+
+## For External Contributors
 
 We welcome contributions to our public repositories. To get started:
 
